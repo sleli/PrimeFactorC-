@@ -1,0 +1,5 @@
+c:\breton\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\breton\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\breton\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+c:\breton\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\breton\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
