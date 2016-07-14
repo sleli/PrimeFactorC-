@@ -15,13 +15,28 @@ namespace UnitTestProject2
             List<int> expected = new List<int>();
             Assert.IsTrue(expected.SequenceEqual(actual));
         }
+
+        [TestMethod]
+        public void test2()
+        {
+            List<int> actual = PrimeFactor.generate(2);
+            List<int> expected = new List<int>() {2};
+            Assert.IsTrue(expected.SequenceEqual(actual));
+        }
+
+        
     }
 
     public class PrimeFactor
     {
         public static List<int> generate(int n)
         {
-            return new List<int>();
+           var primes = new List<int>();
+            if (n > 1)
+                primes.Add(n);
+            return primes;
         }
     }
+
+
 }
